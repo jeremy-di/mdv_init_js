@@ -1,0 +1,24 @@
+h2 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: blue;
+}
+
+.cadre {
+    border: solid, 2px #000;
+    margin-bottom: 1em;
+    width: 40%;
+    padding: 1em;
+    text-align: center;
+    border-radius: 2em;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    justify-content: center;
+}
